@@ -1,0 +1,5 @@
+.Footer{
+    background-color: white;
+    shape-outside: ellipse(200px 300px at 50% 50%);
+    margin-top:25px;
+ }
